@@ -1,0 +1,2 @@
+# Desafio-Coleta---GRX
+Nunca havia feito nada em front-end (se eu não me engano, irei ver no próximo semestre), apenas visto alguns vídeos por conta própria. Tudo que fiz aqui foi estudado nesse final de semana desde o 0, sei que falta partes para completar o desafio, mas fiquei orgulhoso com o meu progresso e projeto. Irei praticar cada vez mais front e com certeza o incentivo desse desafio ajudou nisso!.
